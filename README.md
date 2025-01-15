@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a database controller (Publix's name for Database Developer)
 
-- 🌱 I’m currently learning ** Advanced Statistics**
+- 🌱 I’m currently learning **Advanced Statistics**
 
 - 👨‍💻 All of my projects are available at https://github.com/Phonz-dot/Data_projects_TripleTen.git
   
