@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Alphonso</h1>
 <h3 align="center">A passionate data professional from Florida</h3>
 
-- 🔭 I’m currently working on **exploratory data analysis**
+- 🔭 I’m currently working as a database controller (Publix's name for Database Developer)
 
-- 🌱 I’m currently learning **exploratory data analysis**
+- 🌱 I’m currently learning ** Advanced Statistics**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Phonz-dot?tab=projects](https://github.com/Phonz-dot?tab=projects)
-
+- 👨‍💻 All of my projects are available at https://github.com/Phonz-dot/Data_projects_TripleTen.git
+  
 - 💬 Ask me about **anime**
 
 - 📫 How to reach me **alhouston789@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/alhou/Downloads/A_H_Resume%20(2).pdf](file:///C:/Users/alhou/Downloads/A_H_Resume%20(2).pdf)
+- 📄 Know about my experiences ...
 
 - ⚡ Fun fact **I have an identical twin.**
 
