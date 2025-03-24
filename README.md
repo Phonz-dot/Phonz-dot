@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/Phonz-dot/Data_projects_TripleTen.git
   
-- 💬 Ask me about **anime**
+- 💬 Ask me about **anything math/data-science related**
 
 - 📫 How to reach me **alhouston789@gmail.com**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alphonso houston" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alphonso houston" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/alhouston3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alphonso houston" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
